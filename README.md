@@ -15,20 +15,6 @@ Audio Feedback: Plays a bell sound when the session ends to signal completion.
 ![image](https://github.com/user-attachments/assets/37f22306-085f-4492-a88b-e856e7c21ca0)
 
 
-## Installation
-1. Clone the repository to your local machine:
-```bash
-git clone https://github.com/hnincherryoo/Mindfulness-Mediation-Timer.git
-```
-2. Navigate to the project folder:
-```bash
-cd Web-Mini-Projects/projects/Mindfulness\ Meditation\ Timer
-```
-3. Open `index.html` in your web browser to start the clock.
-```bash
-open index.html
-```.
-
 ## Usage
 
 - Select the meditation time (in minutes) using the input field.
