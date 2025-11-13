@@ -1,6 +1,4 @@
-# Mindfulness-Meditation-Timer
-A repo that is my exercise learning project from cloning others.
-
+# Mindfulness Meditation Timer
 A simple and customizable web-based timer to assist with mindfulness and meditation practices. Users can set the duration of the meditation session and select calming background sounds such as rain, ocean, or forest. The timer displays the remaining time and plays a sound when the session ends.
 
 ## Features
@@ -14,6 +12,20 @@ Audio Feedback: Plays a bell sound when the session ends to signal completion.
 
 ![image](https://github.com/user-attachments/assets/37f22306-085f-4492-a88b-e856e7c21ca0)
 
+
+## Installation
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+```
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Mindfulness\ Meditation\ Timer
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```.
 
 ## Usage
 
